@@ -1,4 +1,4 @@
-#!/Users/aldywirawan/Documents/Code/Soar/PerformanceTest/bin/python3.13
+#!/Users/aldywirawan/Documents/Code/Soar/soar-test/PerformanceTest/task1/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
